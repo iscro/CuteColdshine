@@ -1,0 +1,15 @@
+name: CuteColdshine
+version: 2
+main: cn.coldshine.cute.CuteColdshine
+api-version: 1.13
+
+commands:
+    cute:
+      description: 小可爱彩蛋
+      usage: /cute
+    luoni:
+      description: 小洛妮
+      usage: /luoni
+    mian:
+      description: Mian
+      usage: /mian
